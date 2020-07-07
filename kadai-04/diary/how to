@@ -1,0 +1,17 @@
+五月の分は消えたので、六月分しかありません。
+
+gitpod /workspace/kadai $ cd kadai-04
+gitpod /workspace/kadai/kadai-04 $ cd diaary
+bash: cd: diaary: No such file or directory
+gitpod /workspace/kadai/kadai-04 $ cd diary
+gitpod /workspace/kadai/kadai-04/diary $ cd 2020-06
+gitpod /workspace/kadai/kadai-04/diary/2020-06 $ ls
+gitpod /workspace/kadai/kadai-04/diary/2020-06 $ こんにちは >01.txt
+bash: こんにちは: command not found
+gitpod /workspace/kadai/kadai-04/diary/2020-06 $ exho >01.txt
+bash: exho: command not found
+gitpod /workspace/kadai/kadai-04/diary/2020-06 $ echo こんにちは >01.txt
+gitpod /workspace/kadai/kadai-04/diary/2020-06 $ echo 6月日記です >>01.txt
+gitpod /workspace/kadai/kadai-04/diary/2020-06 $ echo hello >02.txt
+gitpod /workspace/kadai/kadai-04/diary/2020-06 $ echo this is a diary >>02.txt
+gitpod /workspace/kadai/kadai-04/diary/2020-06 $ 
