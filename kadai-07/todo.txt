@@ -1,5 +1,6 @@
-#todo list
+git #todo list
 
 -服を買いに行く
 -A君に会う
 -公園に行く
+-学校に行く
